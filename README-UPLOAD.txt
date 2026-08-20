@@ -25,3 +25,18 @@ Open the homepage and click:
 - final quote submission
 
 No customer should send driver documents, SSNs, CDL numbers, medical information, banking credentials, or Clearinghouse credentials through the public quote form.
+
+
+FINAL V3 DESIGN / SALES UPDATES
+- Hero right-side content now visually blends with the dark hero instead of appearing as a separate pasted-on box.
+- Alternating page sections use a stronger soft sage/stone tint so section changes are visible.
+- Homepage now has a WHAT YOU GET section with an example owner status and owner-action list.
+- Package pages explicitly describe the owner-status deliverable.
+
+IMPORTANT: The sample dollar amounts/status counts shown in the example owner report are illustrative, not promises or customer data.
+
+FINAL LAUNCH CHECK
+- Test every navigation link after GitHub Pages deploys.
+- Submit a quote-form test and verify delivery.
+- Test on phone and desktop.
+- Do not accept sensitive driver/compliance records through the public quote form.
