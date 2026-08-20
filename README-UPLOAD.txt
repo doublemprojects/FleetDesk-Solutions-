@@ -50,3 +50,13 @@ PORTAL PREVIEW
 - Upload/file buttons are visual previews and DO NOT transmit or store files.
 - Do NOT turn these demo pages into real document storage/authentication on GitHub Pages.
 - A production portal will require real authentication, role permissions, secure backend storage, audit logging, and security controls.
+
+FULLY CLICKABLE PORTAL DEMO
+Owner demo pages:
+Dashboard, Drivers, Vehicles, Billing & A/R, IFTA/IRP, Documents, Reports, Requests.
+Driver demo pages:
+My Dashboard, My Documents, My Requests, My Vehicle.
+
+The demo includes working navigation, search/filtering, simulated status actions, simulated upload flows, and sample report downloads.
+IMPORTANT: It is still a PUBLIC STATIC DEMO. It intentionally does NOT create accounts, authenticate users, store documents, or transmit sensitive data.
+Do not place real customer/driver information in these demo files.
