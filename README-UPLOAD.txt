@@ -40,3 +40,13 @@ FINAL LAUNCH CHECK
 - Submit a quote-form test and verify delivery.
 - Test on phone and desktop.
 - Do not accept sensitive driver/compliance records through the public quote form.
+
+
+PORTAL PREVIEW
+- portal-owner.html = no-login Owner/Fleet Manager demo.
+- portal-driver.html = no-login Driver demo.
+- These are intentionally SAMPLE/DEMO pages only.
+- They are marked noindex/nofollow.
+- Upload/file buttons are visual previews and DO NOT transmit or store files.
+- Do NOT turn these demo pages into real document storage/authentication on GitHub Pages.
+- A production portal will require real authentication, role permissions, secure backend storage, audit logging, and security controls.
