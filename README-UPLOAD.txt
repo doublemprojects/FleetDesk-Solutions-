@@ -1,7 +1,11 @@
-FLEETDESK SOLUTIONS — V3 MULTI-PAGE SITE
+FLEETDESK SOLUTIONS V4
 
-Upload EVERYTHING in this folder to the ROOT of your GitHub repository and replace the old files.
+Upload every file in this folder to the ROOT of the existing GitHub repository, replacing the older versions.
 
-Important: upload the services and plans folders too. GitHub must preserve those folders.
+IMPORTANT FORM ACTIVATION:
+After upload, submit ONE test quote yourself.
+The quote form uses FormSubmit because GitHub Pages is static.
+On the first submission, FormSubmit emails woody.malcolm@gmail.com a confirmation link.
+Click it once. After that, customer quote requests are emailed automatically.
 
-After GitHub Pages deploys, hard-refresh the site. Test: each service Learn More link, each plan View link, and Build a Custom Plan.
+Do not move HTML files into subfolders.
