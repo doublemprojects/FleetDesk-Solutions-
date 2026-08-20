@@ -9,7 +9,7 @@ Upload ALL files in this folder to the ROOT of your GitHub repository:
 - .nojekyll
 
 Expected URL used in robots.txt/sitemap.xml:
-https://doublemprojects.github.io/fleetdesk-solutions/
+https://doublemprojects.github.io/FleetDesk-Solutions-/
 
 If your repository URL is different, update that URL in robots.txt and sitemap.xml.
 

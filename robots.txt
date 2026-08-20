@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://doublemprojects.github.io/fleetdesk-solutions/sitemap.xml
+Sitemap: https://doublemprojects.github.io/FleetDesk-Solutions-/sitemap.xml
